@@ -1,6 +1,6 @@
 ## Olá Mundo! Sou Lino Mendes Barbosa👋
 
-- 🔭 Atualmente eu trabalho na Supe ADM do Banco do Brasil
+- 🔭 Atualmente eu trabalho na Super ADM do Banco do Brasil
 - 🌱 Atualmente estudando: Análisde de Dados e Machine Learning
 - 😄 Pronouns: ele/dele
 
